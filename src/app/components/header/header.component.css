@@ -1,0 +1,33 @@
+.custom-toolbar {
+  padding: 0 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.app-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+.nav-links a {
+  color:red;
+  text-transform: uppercase;
+  font-weight: 500;
+  margin-right: 20px;
+}
+
+.nav-links a:hover {
+  color: #ffcc00; /* Highlight color on hover */
+}
+
+button[mat-icon-button] {
+  color: green;
+}
+
+button[mat-icon-button]:hover {
+  color: #ffcc00; /* Icon hover color */
+}

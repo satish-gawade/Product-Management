@@ -1,0 +1,24 @@
+<mat-toolbar color="primary" class="custom-toolbar">
+  <!-- Logo or Home Button -->
+  <button mat-icon-button routerLink="/">
+    <mat-icon>home</mat-icon>
+  </button>
+
+  <!-- Application Title -->
+  <span class="app-title">My Product Management</span>
+
+  <!-- Spacer -->
+  <span class="spacer"></span>
+
+  <!-- Navigation Links -->
+  <nav class="nav-links">
+    <a mat-button routerLink="/products">Products</a>
+    <a mat-button routerLink="/categories">Categories</a>
+    <a mat-button routerLink="/orders">Orders</a>
+  </nav>
+
+  <!-- User Profile Icon -->
+  <button mat-icon-button aria-label="User Account">
+    <mat-icon>account_circle</mat-icon>
+  </button>
+</mat-toolbar>

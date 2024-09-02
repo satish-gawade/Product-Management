@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Men Casual Shirt New",
+      "brand": "Roadster",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSMDEzNk14lJw8_raPOOvxpSFhJ_FIcRbxMAuKfPhbi_0wyojAFsdYCwIDl_mCu5_S9HKyUfP7NUARqFR6GN7PTxvKju8uKgnVIBnZLDxg",
+      "currentPrice": "400",
+      "standarPrice": "600",
+      "discount": "40"
+    },
+    {
+      "id": "2",
+      "name": "Men's Denim Jacket",
+      "brand": "Levi's",
+      "image": "https://media.gettyimages.com/id/157567639/photo/close-up-of-a-white-mens-shirts.jpg?s=612x612&w=0&k=20&c=H59al3QELgo0oTKsQ__HeNRfMCwLfw08qrFGqJZ3gVo=",
+      "currentPrice": "2500",
+      "standarPrice": "500",
+      "discount": "50"
+    },
+    {
+      "id": "3",
+      "name": "Men's Running Shoes new",
+      "brand": "Nike",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/c9bbcd47d543454b8f22e7ca4eda5fac_9366/NRGY_fusion_M_Black_IU6328_02_standard_hover.jpg",
+      "currentPrice": "350",
+      "standarPrice": "700",
+      "discount": "50"
+    },
+    {
+      "id": "4",
+      "brand": "Adidas",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREmF8krJsw0RK2_jj6XzWUUAPA8W3FchWSgOELx7lIsmlMTI62gYYFpTUfMQYqUnbXDqCsxxAKlUd1EBt9z9SRrT4PEjihmNd9CPdJ2IE",
+      "currentPrice": "120",
+      "standarPrice": "240",
+      "discount": "50",
+      "name": "Men's Sports Shorts"
+    },
+    {
+      "id": "5",
+      "brand": "Puma",
+      "image": "https://via.placeholder.com/150?text=Polo+T-Shirt",
+      "currentPrice": "180",
+      "standarPrice": "360",
+      "discount": "50",
+      "name": "Men's Polo T-Shirt"
+    },
+    {
+      "id": "6",
+      "brand": "Tommy Hilfiger",
+      "image": "https://via.placeholder.com/150?text=Formal+Shirt",
+      "currentPrice": "500",
+      "standarPrice": "1000",
+      "discount": "50",
+      "name": "Men's Formal Shirt"
+    },
+    {
+      "id": "7",
+      "brand": "H&M",
+      "image": "https://via.placeholder.com/150?text=Sweatshirt",
+      "currentPrice": "130",
+      "standarPrice": "260",
+      "discount": "50",
+      "name": "Men's Sweatshirt"
+    },
+    {
+      "id": "8",
+      "brand": "Zara",
+      "image": "https://via.placeholder.com/150?text=Chinos",
+      "currentPrice": "300",
+      "standarPrice": "600",
+      "discount": "50",
+      "name": "Men's Chinos"
+    },
+    {
+      "id": "9",
+      "name": "satish",
+      "brand": "sasasx",
+      "image": "https://via.placeholder.com/150?text=Fleece+Jacket",
+      "currentPrice": "220",
+      "standarPrice": "440",
+      "discount": "50"
+    }
+  ]
+}
